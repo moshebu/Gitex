@@ -1,0 +1,19 @@
+{
+  "name": "moshe",
+  "version": "1.0.0",
+  "description": "first one",
+  "main": "my.js",
+  "scripts": {
+    "test": "atr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "my"
+  },
+  "author": "mb",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "lodash": "^4.17.2"
+  }
+}
